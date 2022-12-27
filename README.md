@@ -1,5 +1,4 @@
-# Samsung SDS Coding Challenge
-Jose Andrres Fernandez Marmolejo
+# JAFM Project
 
 1. **Python** 
 2. **Scrapy** 
